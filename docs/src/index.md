@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "曹张倪的博客"
-  text: "这是我的博客,记录我的学习和生活"
+  text: "这是我的博客,记录我的学习和生活^^"
   tagline: My great project tagline
   actions:
     - theme: brand
