@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "曹张倪的博客"
-  text: "这是我的博客,记录我的学习和生活^^"
-  tagline: My great project tagline
+  name: "程序员老曹的博客"
+  text: "这是我的博客,记录我的学习和生活"
+  <!-- tagline: My great project tagline -->
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 技术文章
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 英语学习
       link: /api-examples
 
 features:

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "曹张倪的博客",
+  title: "程序员老曹的博客",
   description: "这是我的个人博客,记录我的生活及学习",
   srcDir: "src",
   base: "/my_blog/",
