@@ -5,7 +5,7 @@ export default defineConfig({
   title: "程序员老曹的博客",
   description: "这是我的个人博客,记录我的生活及学习",
   srcDir: "src",
-  base: "/my_blog/",
+  // base: "/my_blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
